@@ -1,0 +1,26 @@
+Replace 0, 'b'
+Replace 2, 'a'
+Replace 3, 'a'
+Replace 4, 'v'
+Replace 7, 'i'
+Replace 8, 'n'
+Replace 9, 'e'
+Delete 16
+Replace 17, 'a'
+Replace 18, 'r'
+Insert 21, 'n'
+Replace 22, 't'
+Insert 24, 's'
+Insert 27, 'c'
+Replace 29, 'e'
+Replace 32, 'x'
+Replace 33, 'c'
+Replace 34, 'g'
+Replace 35, 'o'
+Replace 36, 'p'
+Replace 37, 'i'
+Replace 38, 'd'
+Replace 42, 't'
+Delete 45
+Delete 46
+

@@ -1,0 +1,20 @@
+Replace 0, 'g'
+Replace 1, 'a'
+Replace 7, 'a'
+Insert 11, 'c'
+Replace 12, 'c'
+Replace 17, 'a'
+Delete 21
+Replace 26, 'a'
+Replace 27, 'g'
+Insert 29, 't'
+Replace 30, 'a'
+Delete 34
+Delete 35
+Delete 36
+Delete 38
+Replace 41, 'g'
+Replace 47, 'a'
+Insert 52, 'g'
+Replace 53, 'a'
+

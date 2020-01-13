@@ -1,0 +1,110 @@
+Replace 0, 'g'
+Replace 1, 'a'
+Replace 7, 'a'
+Insert 11, 'c'
+Replace 12, 'c'
+Replace 17, 'a'
+Delete 21
+Replace 26, 'a'
+Replace 27, 'g'
+Insert 29, 't'
+Replace 30, 'a'
+Delete 34
+Delete 35
+Delete 36
+Delete 38
+Replace 41, 'g'
+Replace 47, 'a'
+Insert 52, 'g'
+Replace 53, 'a'
+Insert 56, 't'
+Replace 58, 'a'
+Replace 59, 'g'
+Replace 60, 'a'
+Insert 67, 'a'
+Insert 77, 'a'
+Delete 82
+Delete 90
+Replace 90, 'c'
+Delete 94
+Replace 95, 'a'
+Replace 96, 't'
+Delete 98
+Insert 105, 'g'
+Replace 109, 'c'
+Replace 110, 'a'
+Replace 112, 'a'
+Replace 113, 'a'
+Replace 114, 'c'
+Insert 126, 'c'
+Insert 129, 'a'
+Insert 130, 't'
+Replace 132, 'a'
+Insert 150, 't'
+Insert 157, 'a'
+Insert 158, 'c'
+Replace 161, 'a'
+Replace 162, 'g'
+Replace 168, 'g'
+Insert 170, 'g'
+Delete 179
+Insert 192, 'a'
+Replace 194, 'a'
+Replace 197, 'c'
+Delete 201
+Insert 210, 'c'
+Insert 211, 't'
+Insert 214, 'c'
+Insert 216, 'a'
+Insert 218, 'g'
+Replace 219, 'g'
+Replace 220, 't'
+Replace 222, 't'
+Replace 226, 'a'
+Replace 228, 'a'
+Replace 229, 'c'
+Insert 232, 'g'
+Replace 233, 'c'
+Delete 249
+Delete 252
+Delete 255
+Delete 256
+Delete 268
+Delete 268
+Delete 268
+Delete 269
+Replace 273, 'g'
+Replace 274, 'a'
+Replace 275, 't'
+Replace 277, 'a'
+Delete 279
+Delete 280
+Delete 281
+Delete 286
+Delete 286
+Delete 286
+Delete 286
+Replace 288, 'c'
+Replace 290, 'c'
+Replace 291, 't'
+Replace 293, 'c'
+Delete 295
+Replace 296, 'g'
+Replace 300, 't'
+Replace 301, 'g'
+Delete 309
+Delete 309
+Replace 311, 'a'
+Replace 312, 'g'
+Replace 314, 'a'
+Replace 318, 'a'
+Replace 320, 't'
+Replace 321, 'a'
+Replace 322, 't'
+Insert 327, 'c'
+Replace 328, 'a'
+Replace 329, 'g'
+Replace 330, 'g'
+Replace 335, 't'
+Replace 336, 'a'
+

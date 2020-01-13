@@ -1,0 +1,26 @@
+Insert 0, 't'
+Replace 1, 'r'
+Replace 2, 'i'
+Replace 3, 'n'
+Replace 4, 'o'
+Delete 8
+Delete 9
+Replace 9, 'c'
+Replace 11, 'e'
+Replace 12, 's'
+Replace 13, 't'
+Replace 14, 'a'
+Replace 15, 'm'
+Delete 17
+Delete 17
+Replace 18, 'n'
+Delete 20
+Replace 22, 'm'
+Delete 24
+Delete 24
+Delete 24
+Replace 25, 'c'
+Replace 26, 'r'
+Replace 30, 'v'
+Replace 32, 'l'
+
